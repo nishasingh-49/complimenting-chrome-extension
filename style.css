@@ -1,0 +1,23 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  text-align: center;
+  padding: 20px;
+  background-color: #fef9f8;
+}
+
+#container {
+  border-radius: 12px;
+  padding: 15px;
+  background-color: #fff;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+h1 {
+  font-size: 1.2em;
+  color: #333;
+}
+
+label, select, button, p {
+  margin-top: 10px;
+  font-size: 0.9em;
+}
